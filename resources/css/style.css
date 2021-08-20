@@ -1,0 +1,120 @@
+.html {
+    background-color: #000000;
+  }
+  
+  .body {
+    background-color: #000000 !important;
+  }
+  
+  .resume {
+    background-color: #000000;
+  
+    /* height: 34rem; */
+  }
+  
+  .container {
+    background-color: #ffffff;
+    width: 80%;
+  }
+  
+  .header_text {
+    font-weight: 500;
+  }
+  
+  .header__logo {
+    width: 8rem;
+    height: 6rem;
+  }
+  .header_img {
+    width: 8rem;
+    height: 8rem;
+  }
+  
+  .links {
+    padding-left: 08rem;
+  }
+  
+  .company_link {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  .company_link:hover {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .social__list {
+    display: grid;
+    color: #000000;
+  }
+  /* ABOUT */
+  .about_text {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .resume_line {
+    margin-top: 80px;
+  }
+  
+  .about_details {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .email_link,
+  .phone_link {
+    color: #000000;
+  }
+  
+  .email_link:hover {
+    color: #000000;
+  }
+  .phone_link:hover {
+    color: #000000;
+  }
+  
+  /* Summary */
+  .summary {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .portfolio_link {
+    color: #007bff;
+    font-weight: 500;
+  }
+  
+  .portfolio_link:hover {
+    color: #007bff;
+    text-decoration: underline;
+  }
+  
+  /* SKILL */
+  .header_skill {
+    text-align: center;
+    color: #007bff;
+  }
+  
+  .skill_link {
+    font-weight: 400;
+  }
+  
+  .exper_para {
+    font-weight: 400;
+  }
+  
+  /* EDUCATION */
+  .edu_detail {
+    margin-bottom: 0px;
+  }
+  
+  /* CONTACT */
+  .contact {
+    width: 100%;
+  }
+  .form_button {
+    width: 20%;
+    text-align: center;
+  }
